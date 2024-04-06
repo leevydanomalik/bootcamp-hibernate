@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02-cruddemo-student-read/pom.xml" />
+        <option value="$PROJECT_DIR$/01-cruddemo-student-create/pom.xml" />
+        <option value="$PROJECT_DIR$/05-cruddemo-student-update/pom.xml" />
+        <option value="$PROJECT_DIR$/03-cruddemo-student-query-findAll/pom.xml" />
+        <option value="$PROJECT_DIR$/04-cruddemo-student-query-findByLastName/pom.xml" />
+        <option value="$PROJECT_DIR$/06-cruddemo-student-delete-single-student/pom.xml" />
+        <option value="$PROJECT_DIR$/08-cruddemo-create-db-tables-automatically/pom.xml" />
+        <option value="$PROJECT_DIR$/07-cruddemo-student-query-delete-all-students/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
